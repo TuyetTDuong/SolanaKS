@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/tuyet.duong/Downloads/solana-master-5/programs/bpf/target/bpfel-unknown-unknown/release/build/typenum-dc5e85a1d39ca576/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/tuyet.duong/Downloads/solana-master-5/programs/bpf/target/bpfel-unknown-unknown/release/build/typenum-dc5e85a1d39ca576/out/op.rs
